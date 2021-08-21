@@ -19,6 +19,6 @@ int main()
 		}
 		
 	}
-	printf("%d %d %d", a[0], a[1], a[2]);
+	printf("%d",a[0]+a[1]);
 	return 0;
 }
